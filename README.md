@@ -70,6 +70,6 @@ Since the ratio is well above 1, our program is utilizing multiple cores for com
 
 * **Largest problem**
 
-We managed to run the code for n=120000000 , k=4 as the largest possible problem.
+We managed to run the code for n=117440509 , k=4 as the largest possible problem.
 After this as we increased the value of (n) by some constant factors, it showed "[error] Too many processes".
 The largest problem possible will depend on both (n) and (k) i.e some f(n,k).

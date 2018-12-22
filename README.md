@@ -3,10 +3,6 @@ COP5615 - Distributed Operating Systems Principles Project 1
 
 The input provided (as command line to your program, e.g. my app) will be two numbers: N and k. The overall goal of your program is to find all k consecutive numbers starting at 1 and up to N, such that the sum of squares is itself a perfect square (square of an integer).
 
-## Group Information
-* **Ayush Mittal** - *UF ID: 3777 8171*
-* **Shivaditya Jatar** - *UF ID: 6203 9241*
-
 ## Contents of this file
 
 Introduction, Prerequisites, Instruction Section, Project Questions
